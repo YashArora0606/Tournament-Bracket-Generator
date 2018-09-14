@@ -1,4 +1,4 @@
 
-interface BracketGenerator {
+public abstract class BracketGenerator {
 
 }
